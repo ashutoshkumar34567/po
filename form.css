@@ -1,0 +1,22 @@
+/* Define overall layout styles */
+body {
+    font-family: Arial, sans-serif;
+   background-color: purple;
+    padding: 0;
+}
+/*style h2 */
+h2{
+    color: #fff;
+    text-align: center;
+}
+/*style head */
+.head{
+    color: #fff;
+    text-align: center;
+}
+/*style form */
+.form{
+    background-color: rgb(5, 5, 79);
+    justify-content: center;
+color: #fff;
+}

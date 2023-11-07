@@ -1,0 +1,54 @@
+/* Define overall layout styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color:rgb(9, 36, 20);
+    margin: 20px;
+    padding: 0;
+}
+h1{
+    display: inline;
+    color: #fff;
+}
+.date{ float: right;
+    margin-right: 20%;
+color: rgb(16, 70, 38);
+}
+
+/* Style nav bar */
+nav {
+   
+   
+    text-align: right;
+    margin-right: 20%;
+ }
+ 
+ nav ul {
+     list-style: none;
+     padding: 0;
+ }
+ 
+ nav li {
+     display: inline;
+     margin-right: 10px;
+ }
+ 
+ nav a {
+     color: #fff;
+    
+ }
+ /* Style h2 */
+ h2{
+    color:rgb(16, 70, 38) ;
+    text-align: center;
+ }
+ /* Style middle */
+ .middle{
+    color: #fff;
+    text-align: center;
+ }
+ .hover{
+  border-radius: 2px;
+   
+   color: #fff;
+   text-align: center;
+ }
